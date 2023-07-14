@@ -37,7 +37,7 @@ Before running the application, ensure that you have the following installed:
    java -jar target/employee-department-api.jar
    ```
 
-The API will be accessible at `http://localhost:8080`.
+The API will be accessible at `http://localhost:8081`.
 
 ## API Endpoints
 
@@ -215,8 +215,6 @@ Department with ID 3 deleted successfully.
 
 ## Database Configuration
 
-The application is configured to use an in-memory H2 database by default. You can modify the database settings in the `application.properties` file if needed.
+The application is configured to MySql database.
+You have to modify the database settings in the `application.properties` file.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
