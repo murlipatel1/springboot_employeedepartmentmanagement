@@ -6,7 +6,7 @@ This repository contains a Spring Boot application that provides a RESTful API f
 
 Before running the application, ensure that you have the following installed:
 
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 8 or higher
 - Apache Maven
 
 ## Setup
