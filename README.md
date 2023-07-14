@@ -1,5 +1,3 @@
-# springboot_employeedepartmentmanagement
-
 # Employee and Department CRUD REST API
 
 This repository contains a Spring Boot application that provides a RESTful API for performing CRUD (Create, Read, Update, Delete) operations on employee and department resources.
